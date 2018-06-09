@@ -1,0 +1,5 @@
+******
+This project is about creating SQL table for storing structured data and retrive the data by using local server
+installed on computer using open source servers like apache, tomcat etc.., 
+At the end create a basic html web page if possible try to create web page using some dynamic content by using js
+******
